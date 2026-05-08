@@ -1,4 +1,4 @@
-# Hello there, I'm Ádám!
+# Hello there, I'm Adam!
 
 I'm a 18-year-old developer from Budapest, Hungary developing web tools and projects including my startup attempt: [@nordaun](https://github.com/nordaun)
 
@@ -19,9 +19,8 @@ I'm a 18-year-old developer from Budapest, Hungary developing web tools and proj
 
 ## What about now:
 
-- My 5 year programming journey has come to a temporary halt.
-- To put it simply I am currently busy learning for a sort of entry exam for universities in Hungary called "Érettségi". After I graduate high school and do my exams, I will be back on the grind.
-- When I have some free time i am learning to code (mostly Python for algorithms) or trying to progress with my startup.
+- I've finally finished high school. Now it's time for university. Now that I have a bit more time, expect some extraordinary projects.
+- I am currently working on the ui part of my main project. Check out my component registry [here](https://ui.nordaun.com)
 
 ## Current projects:
 
